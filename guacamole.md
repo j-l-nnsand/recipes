@@ -4,4 +4,4 @@
 * lemon
 * salt
 ## Instructions
-smash guacamole
+smash avocado
